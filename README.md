@@ -1,0 +1,2 @@
+# trainingsfactor
+fitnes
